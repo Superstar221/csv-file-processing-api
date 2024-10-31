@@ -25,8 +25,8 @@ A Django REST API for processing and analyzing CSV files with automatic type inf
 
 1. Clone and setup:
 ```bash
-git clone <repository-url>
-cd <project-name>
+git clone https://github.com/Superstar221/csv-file-processing-api.git
+cd csv-file-processing-api
 
 # Create virtual environment
 python -m venv venv
