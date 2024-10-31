@@ -75,20 +75,6 @@ python manage.py runserver
 - [ ] Configure proper static/media file serving
 - [ ] Set up proper authentication
 
-2. Environment variables:
-```bash
-export DJANGO_SETTINGS_MODULE=project.settings.production
-export DATABASE_URL=postgresql://user:pass@localhost/dbname
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit changes
-4. Push to the branch
-5. Create a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
